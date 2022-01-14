@@ -1,0 +1,21 @@
+portals:
+  world-to-lab:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: TKS_TinyKitty
+    location: -269.0,11.0,-956.0:-269.0,13.0,-954.0
+    world: world
+    destination: p:lab-to-world
+  lab-to-world:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: TKS_TinyKitty
+    location: 202.0,70.0,234.0:202.0,72.0,236.0
+    world: lab
+    destination: p:world-to-lab

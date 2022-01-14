@@ -1,0 +1,10 @@
+# SuperVanish v6.2.0 - Data file
+InvisiblePlayers: []
+PlayerData:
+  080d4b82-7afa-3bb0-880e-b0ebf2c17e6b:
+    information:
+      name: TKS_TinyKitty
+    itemPickUps: false
+  63187d3b-f0b7-3719-8e4e-80f9deac394c:
+    information:
+      name: Oracolul70

@@ -1,0 +1,20 @@
+lastAccountName: Oracolul70
+timestamps:
+  login: 1608579539819
+  logout: 1608580880586
+  lastteleport: 1608580866148
+ipAddress: 85.186.51.52
+lastlocation:
+  world: world
+  x: 166.00646038708678
+  y: 30.5
+  z: -1455.8769523138956
+  yaw: 111.57468
+  pitch: 32.641247
+logoutlocation:
+  world: world_the_end
+  x: 1240.3171006725024
+  y: 44.0
+  z: 571.6999999880791
+  yaw: 141.23895
+  pitch: 0.68937093

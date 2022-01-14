@@ -1,0 +1,24 @@
+lastAccountName: TKS_TinyKitty
+timestamps:
+  login: 1609337556570
+  logout: 1609338817123
+  lastteleport: 1609335663502
+ipAddress: 84.117.176.85
+lastlocation:
+  world: world
+  x: -260.41089960706375
+  y: 84.0
+  z: -976.9615667318334
+  yaw: 31.101387
+  pitch: 8.921026
+logoutlocation:
+  world: world
+  x: -285.87390708206834
+  y: 97.0
+  z: -947.5077400662213
+  yaw: 155.19049
+  pitch: 16.38753
+socialspy: true
+powertools:
+  stone:
+  - /replacenear 5 stone,coal_ore,gravel dirt
